@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TouchToMySite</string>
+    <string name="menu_settings">Settings</string>
+    <string name="website_input_title">Input your website URL</string>
+    <string name="confirm_url">Confirm</string>
+    <string name="website_input_hint">your website url </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_write_tag">Write NFC Tag</string>
+    <string name="err_no_website_url">Please input your website url before continue</string>
+    <string name="write_tag_hint">"Writing url  '%1$s' to your tag, please place your phone on the tag."</string>
+    <string name="write_tag_success">Write tag success!</string>
+
+</resources>
